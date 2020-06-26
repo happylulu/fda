@@ -1,0 +1,1681 @@
+,reactionmeddraversionpt,reactionmeddrapt,reactionoutcome,safetyreportid
+0,22.0,Alopecia,3,16611431
+1,22.0,Hair texture abnormal,3,16611431
+2,22.0,Madarosis,3,16611431
+3,22.0,Hair disorder,3,16611431
+4,22.0,Hair colour changes,3,16611431
+0,22.0,Hair disorder,3,16611432
+1,22.0,Depression,6,16611432
+2,22.0,Hair colour changes,3,16611432
+3,22.0,Alopecia,3,16611432
+4,22.0,Hair texture abnormal,3,16611432
+0,22.0,Needle issue,6,16611454
+1,22.0,Wrong technique in product usage process,6,16611454
+2,22.0,Injury associated with device,1,16611454
+0,22.0,Decreased appetite,6,16611456
+1,22.0,Weight decreased,6,16611456
+0,22.0,Decreased appetite,6,16611484
+1,22.0,Weight decreased,6,16611484
+0,22.0,Off label use,6,16611485
+0,22.0,Stomatitis,6,16611519
+0,22.0,Product dose omission,6,16611536
+1,22.0,Syringe issue,6,16611536
+0,22.0,Product solubility abnormal,6,16611602
+1,22.0,Needle issue,6,16611602
+2,22.0,Incorrect dose administered,6,16611602
+3,22.0,Product use complaint,6,16611602
+0,22.0,Febrile neutropenia,6,16611668
+0,22.0,Product packaging quantity issue,6,16611705
+1,22.0,Product quality issue,6,16611705
+2,22.0,Product dose omission,6,16611705
+0,22.0,Hot flush,3,16611709
+1,22.0,Urinary tract infection,6,16611709
+2,22.0,Erectile dysfunction,6,16611709
+3,22.0,Arthralgia,3,16611709
+4,22.0,Night sweats,3,16611709
+5,22.0,Swelling,6,16611709
+6,22.0,Pain in extremity,3,16611709
+7,22.0,Weight increased,3,16611709
+8,22.0,Insomnia,6,16611709
+9,22.0,Hypertension,6,16611709
+10,22.0,Headache,6,16611709
+11,22.0,Bone pain,3,16611709
+12,22.0,Testicular atrophy,6,16611709
+13,22.0,Pain,3,16611709
+14,22.0,Influenza like illness,2,16611709
+15,22.0,Myalgia,6,16611709
+0,22.0,Product administration error,6,16611712
+1,22.0,Device operational issue,6,16611712
+2,22.0,Incorrect dose administered,6,16611712
+0,22.0,Blood testosterone increased,2,16611713
+0,22.0,Prostatic specific antigen increased,3,16611723
+1,22.0,Prostatic specific antigen increased,3,16611723
+2,22.0,Prostatic specific antigen increased,3,16611723
+0,22.0,Urinary incontinence,3,16611760
+1,22.0,Mood swings,3,16611760
+2,22.0,Pelvic pain,3,16611760
+3,22.0,Pelvic discomfort,3,16611760
+4,22.0,Headache,3,16611760
+5,22.0,Spinal pain,3,16611760
+6,22.0,Arthropathy,3,16611760
+7,22.0,Hot flush,3,16611760
+8,22.0,Abdominal discomfort,3,16611760
+9,22.0,Bladder discomfort,3,16611760
+10,22.0,Fatigue,3,16611760
+11,22.0,Bone pain,3,16611760
+12,22.0,Dizziness,3,16611760
+13,22.0,Off label use,6,16611760
+0,22.0,Dry mouth,6,16611787
+1,22.0,Irritability,6,16611787
+2,22.0,Headache,6,16611787
+3,22.0,Dehydration,6,16611787
+4,22.0,Expired product administered,6,16611787
+5,22.0,Hot flush,6,16611787
+0,22.0,Product dose omission,6,16611792
+1,22.0,Incorrect dose administered,6,16611792
+2,22.0,Device leakage,6,16611792
+3,22.0,Off label use,6,16611792
+4,22.0,Device malfunction,6,16611792
+0,22.0,Off label use,6,16611797
+0,22.0,Pleural effusion,5,16611813
+0,22.0,Death,5,16611988
+1,22.0,Off label use,6,16611988
+2,22.0,Product use in unapproved indication,6,16611988
+0,22.0,Breast mass,6,16612003
+1,22.0,Metastases to chest wall,6,16612003
+2,22.0,Breast cancer recurrent,6,16612003
+3,22.0,Metastases to lymph nodes,6,16612003
+4,22.0,Drug intolerance,6,16612003
+5,22.0,Breast enlargement,6,16612003
+6,22.0,Visual impairment,6,16612003
+0,22.0,Interstitial lung disease,5,16612010
+0,22.0,Retinal vasculitis,6,16612012
+0,22.0,Platelet count decreased,1,16612021
+1,22.0,Proteinuria,1,16612021
+2,22.0,White blood cell count decreased,1,16612021
+0,22.0,Hypersensitivity,1,16612022
+0,22.0,Malignant neoplasm progression,6,16612023
+0,22.0,Arrhythmia,1,16612024
+0,22.0,Flushing,6,16612037
+1,22.0,Throat clearing,6,16612037
+2,22.0,Infusion related reaction,6,16612037
+3,22.0,Dizziness,6,16612037
+0,22.0,Hallucination,6,16612038
+0,22.0,No adverse event,6,16612040
+1,22.0,Intentional product use issue,6,16612040
+2,22.0,Off label use,6,16612040
+0,22.0,Off label use,6,16612041
+1,22.0,No adverse event,6,16612041
+2,22.0,Intentional product use issue,6,16612041
+0,22.0,Off label use,6,16612042
+1,22.0,No adverse event,6,16612042
+2,22.0,Intentional product use issue,6,16612042
+0,22.0,Pneumonitis,6,16612047
+0,22.0,Peripheral swelling,6,16612048
+1,22.0,Haemoptysis,6,16612048
+0,22.0,Fatigue,3,16612049
+1,22.0,Intentional product use issue,6,16612049
+2,22.0,Off label use,6,16612049
+0,22.0,Off label use,6,16612050
+1,22.0,Intentional product use issue,6,16612050
+2,22.0,Hypothyroidism,2,16612050
+0,22.0,Encephalitis,6,16612051
+0,22.0,Off label use,6,16612053
+1,22.0,No adverse event,6,16612053
+2,22.0,Intentional product use issue,6,16612053
+0,22.0,Flushing,6,16612054
+0,22.0,Fatigue,1,16612055
+0,22.0,Alopecia,6,16612056
+1,22.0,Neuropathy peripheral,6,16612056
+0,22.0,Sepsis,6,16612057
+0,22.0,Night sweats,3,16612059
+1,22.0,Malaise,3,16612059
+2,22.0,Rhinorrhoea,3,16612059
+3,22.0,Fatigue,3,16612059
+4,22.0,Pyrexia,1,16612059
+5,22.0,Pain,3,16612059
+6,22.0,Neuropathy peripheral,1,16612059
+7,22.0,Asthenia,3,16612059
+8,22.0,Screaming,6,16612059
+9,22.0,Malaise,3,16612059
+10,22.0,Intentional product use issue,6,16612059
+11,22.0,Off label use,6,16612059
+0,22.0,Troponin increased,6,16612060
+1,22.0,Ejection fraction decreased,6,16612060
+2,22.0,Chest pain,6,16612060
+0,22.0,Myalgia,3,16612061
+1,22.0,Arthralgia,3,16612061
+2,22.0,Intentional product use issue,6,16612061
+3,22.0,Blood thyroid stimulating hormone increased,6,16612061
+4,22.0,Pain,3,16612061
+5,22.0,Off label use,6,16612061
+6,22.0,Tendonitis,3,16612061
+0,22.0,Constipation,3,16612064
+1,22.0,Nausea,3,16612064
+2,22.0,Increased appetite,6,16612064
+3,22.0,Dry mouth,3,16612064
+0,22.0,Liver function test increased,6,16612065
+1,22.0,Pneumonitis,1,16612065
+0,22.0,No adverse event,6,16612066
+1,22.0,Drug interaction,6,16612066
+0,22.0,No adverse event,6,16612067
+1,22.0,Off label use,6,16612067
+2,22.0,Intentional product use issue,6,16612067
+0,22.0,Pyrexia,1,16612068
+0,22.0,Intentional product use issue,6,16612069
+1,22.0,Infusion related reaction,6,16612069
+2,22.0,Off label use,6,16612069
+0,22.0,Type 1 diabetes mellitus,1,16612070
+0,22.1,Anaemia,1,16612078
+1,22.1,Leukopenia,1,16612078
+2,22.1,Vomiting,1,16612078
+3,22.1,Neutropenia,1,16612078
+4,22.1,Leukopenia,4,16612078
+5,22.1,Leukopenia,1,16612078
+6,22.1,Back pain,2,16612078
+7,22.1,Neutropenia,4,16612078
+8,22.1,Neutropenia,4,16612078
+9,22.1,Asthenia,2,16612078
+10,22.1,Neutropenia,1,16612078
+11,22.1,Anaemia,1,16612078
+12,22.1,Anaemia,1,16612078
+13,22.1,Anaemia,1,16612078
+0,22.0,Pneumonitis,6,16612093
+0,22.0,Coma,1,16612437
+1,22.0,Troponin increased,2,16612437
+2,22.0,Leukopenia,2,16612437
+0,22.0,Deep vein thrombosis,1,16612693
+1,22.0,Pulmonary embolism,1,16612693
+0,22.0,Febrile neutropenia,1,16612710
+1,22.0,Pneumonia pseudomonal,1,16612710
+0,22.0,Alopecia,6,16612713
+1,22.0,Pruritus,6,16612713
+0,22.0,Pruritus,,16612727
+1,22.0,Blood pressure increased,,16612727
+2,22.0,Chest discomfort,,16612727
+3,22.0,Dyspnoea,,16612727
+4,22.0,Blood pressure decreased,,16612727
+0,22.0,Diarrhoea,6,16612734
+1,22.0,Neutropenia,6,16612734
+2,22.0,Polyneuropathy,6,16612734
+0,22.0,Anaemia,,16612756
+1,22.0,Transfusion,,16612756
+0,22.0,Disease progression,,16612786
+0,22.0,Pain in extremity,2,16612845
+1,22.0,Bone pain,2,16612845
+2,22.0,Metastases to bone,6,16612845
+3,22.0,Metastases to lung,6,16612845
+4,22.0,Skin lesion,6,16612845
+5,22.0,Headache,2,16612845
+6,22.0,Breast cancer recurrent,6,16612845
+7,22.0,Diarrhoea,6,16612845
+8,22.0,Electrocardiogram QT prolonged,6,16612845
+9,22.0,Drug intolerance,6,16612845
+10,22.0,Drug eruption,6,16612845
+0,22.0,Vomiting,,16612877
+1,22.0,Abdominal pain upper,,16612877
+2,22.0,Diarrhoea,,16612877
+3,22.0,Fatigue,,16612877
+4,22.0,Headache,,16612877
+5,22.0,Therapy cessation,,16612877
+0,22.0,Upper respiratory tract infection,,16612884
+0,22.0,Diarrhoea,,16612893
+0,22.0,Constipation,,16613108
+1,22.0,Gastric disorder,,16613108
+2,22.0,Dyspnoea,,16613108
+0,22.0,Death,,16613252
+0,22.1,Intentional product use issue,6,16613255
+1,22.1,Off label use,6,16613255
+2,22.1,Metastases to lung,3,16613255
+3,22.1,Metastases to central nervous system,3,16613255
+0,22.0,Disease progression,,16613272
+0,22.0,Hepatic function abnormal,6,16613400
+1,22.0,Dehydration,6,16613400
+2,22.0,Pneumothorax,5,16613400
+3,22.0,Dermatitis bullous,6,16613400
+0,22.0,Pain,6,16613401
+1,22.0,Chills,6,16613401
+2,22.0,Tremor,6,16613401
+3,22.0,Intentional product use issue,6,16613401
+0,22.0,Radiation pneumonitis,5,16613411
+1,22.0,Pulmonary embolism,5,16613411
+2,22.0,Toxic epidermal necrolysis,5,16613411
+3,22.0,Pneumonia,5,16613411
+0,22.0,Anaphylactic shock,2,16613430
+0,22.1,Hot flush,3,16613445
+1,22.1,Acne,1,16613445
+2,22.1,Initial insomnia,3,16613445
+3,22.1,Hyperhidrosis,3,16613445
+4,22.1,Pruritus,1,16613445
+5,22.1,Back pain,1,16613445
+6,22.1,Coronary artery bypass,6,16613445
+7,22.1,Back pain,6,16613445
+8,22.1,Haematuria,6,16613445
+9,22.1,Rash macular,6,16613445
+10,22.1,Rash pruritic,6,16613445
+0,22.0,Bone cancer,3,16613472
+1,22.0,Pain,1,16613472
+2,22.0,Pain in extremity,6,16613472
+3,22.0,Fall,3,16613472
+4,22.0,Nerve injury,3,16613472
+5,22.0,Neck injury,6,16613472
+6,22.0,Muscular weakness,3,16613472
+0,22.1,Contusion,6,16613521
+1,22.1,Immune thrombocytopenic purpura,1,16613521
+2,22.1,Mouth haemorrhage,6,16613521
+0,22.0,Hypoxia,6,16613539
+1,22.0,Disease progression,5,16613539
+2,22.0,Azotaemia,6,16613539
+3,22.0,Pancytopenia,6,16613539
+4,22.0,Metabolic encephalopathy,6,16613539
+0,22.0,Hypotension,1,16613565
+1,22.0,Nausea,1,16613565
+2,22.0,Hyperhidrosis,1,16613565
+3,22.0,Abdominal pain upper,1,16613565
+4,22.0,Headache,1,16613565
+0,22.0,Death,,16613577
+0,22.0,Disease progression,,16613589
+0,22.0,Diarrhoea,,16613593
+1,22.0,Therapy change,,16613593
+0,22.0,Renal impairment,1,16613596
+1,22.0,Drug effective for unapproved indication,6,16613596
+2,22.0,Product use in unapproved indication,6,16613596
+0,22.1,Duodenal ulcer perforation,1,16613675
+1,22.1,Postoperative wound complication,6,16613675
+2,22.1,Fistula of small intestine,3,16613675
+3,22.1,Ileus,6,16613675
+4,22.1,Wound secretion,6,16613675
+0,22.0,Dyspnoea,2,16613683
+1,22.0,Prerenal failure,2,16613683
+2,22.0,Inflammation,2,16613683
+3,22.0,Hypocapnia,2,16613683
+4,22.0,Blood pressure decreased,2,16613683
+5,22.0,Lactic acidosis,2,16613683
+6,22.0,Enteritis infectious,2,16613683
+7,22.0,Diarrhoea,2,16613683
+0,22.0,Bacteraemia,1,16613716
+1,22.0,Cardiac failure,2,16613716
+2,22.0,Arrhythmia,2,16613716
+3,22.0,Sepsis,1,16613716
+4,22.0,Sepsis,1,16613716
+5,22.0,Lung abscess,1,16613716
+6,22.0,Pneumonia,1,16613716
+0,22.1,Hypersensitivity,1,16613794
+1,22.1,Diarrhoea,1,16613794
+2,22.1,Pyrexia,1,16613794
+3,22.1,Contusion,6,16613794
+4,22.1,Anaemia,6,16613794
+5,22.1,Headache,1,16613794
+6,22.1,Syncope,6,16613794
+7,22.1,Malaise,6,16613794
+8,22.1,Panic attack,6,16613794
+9,22.1,Influenza like illness,1,16613794
+10,22.1,Injection site reaction,6,16613794
+11,22.1,Dizziness,6,16613794
+12,22.1,Alopecia,3,16613794
+13,22.1,Memory impairment,3,16613794
+0,22.0,Death,5,16613808
+0,22.0,Fall,6,16613818
+1,22.0,Rib fracture,6,16613818
+0,22.1,Bone pain,2,16613830
+1,22.1,Oliguria,2,16613830
+2,22.1,Blood pressure increased,2,16613830
+0,22.0,Interstitial lung disease,5,16613837
+0,22.0,Pneumatosis intestinalis,1,16613844
+0,22.0,Haemoglobin decreased,6,16613853
+1,22.0,Device leakage,6,16613853
+2,22.0,Fatigue,6,16613853
+0,22.0,Chest pain,6,16613867
+1,22.0,Tremor,6,16613867
+2,22.0,Intentional product use issue,6,16613867
+0,22.0,Haematuria,6,16613926
+1,22.0,Off label use,6,16613926
+0,22.0,Renal failure,3,16613955
+1,22.0,Product use in unapproved indication,6,16613955
+0,22.0,Ankle fracture,3,16613999
+1,22.0,Urinary tract infection,6,16613999
+2,22.0,Osteoporosis,3,16613999
+3,22.0,Chest wall mass,6,16613999
+4,22.0,Herpes zoster,1,16613999
+0,22.1,Splenomegaly,6,16614010
+1,22.1,Ascites,6,16614010
+2,22.1,Thrombocytopenia,1,16614010
+0,22.1,Pneumonitis,5,16614011
+0,22.0,Nausea,1,16614025
+1,22.0,Abdominal pain,1,16614025
+2,22.0,Erythema,1,16614025
+3,22.0,Face oedema,1,16614025
+0,22.0,Neuropathy peripheral,3,16614028
+1,22.0,Cerebellar syndrome,3,16614028
+0,22.0,Lactic acidosis,6,16614032
+1,22.0,Diarrhoea,6,16614032
+2,22.0,Dehydration,6,16614032
+3,22.0,Respiration abnormal,6,16614032
+4,22.0,Acute kidney injury,6,16614032
+5,22.0,Drug level increased,6,16614032
+6,22.0,Hypophagia,6,16614032
+0,22.0,Neutropenic colitis,4,16614038
+1,22.0,Septic shock,4,16614038
+0,22.0,Cerebrovascular disorder,2,16614054
+0,22.0,Death,5,16614082
+1,22.0,Depressed level of consciousness,6,16614082
+2,22.0,Memory impairment,1,16614082
+0,22.0,Chest discomfort,2,16614138
+1,22.0,Dyspnoea,2,16614138
+2,22.0,Cyanosis,2,16614138
+3,22.0,Palpitations,2,16614138
+0,22.0,Lung disorder,2,16614184
+0,22.0,Asthenia,3,16614186
+1,22.0,Diarrhoea,3,16614186
+2,22.0,Nail discolouration,3,16614186
+3,22.0,Stomatitis,3,16614186
+4,22.0,Pyrexia,3,16614186
+5,22.0,Tachycardia,3,16614186
+0,22.0,Respiratory depression,2,16614211
+1,22.0,Hypersensitivity,2,16614211
+0,22.0,Delusion,1,16614349
+1,22.0,Intentional product use issue,6,16614349
+2,22.0,Pyrexia,1,16614349
+3,22.0,Off label use,6,16614349
+0,22.0,Rectal haemorrhage,1,16614382
+1,22.0,Thrombocytopenia,1,16614382
+2,22.0,Anaemia,2,16614382
+0,22.0,Encephalopathy,5,16614463
+0,22.0,Appendicitis,2,16614481
+1,22.0,Fall,6,16614481
+2,22.0,Spinal column injury,6,16614481
+0,22.0,Death,5,16614482
+0,22.0,Pelvic pain,1,16614483
+1,22.0,Hyperthyroidism,2,16614483
+2,22.0,Erectile dysfunction,3,16614483
+0,22.0,Respiratory failure,6,16614489
+1,22.0,Rash,1,16614489
+2,22.0,Pneumonitis,1,16614489
+3,22.0,Pyrexia,1,16614489
+4,22.0,Bladder cancer,6,16614489
+5,22.0,Nasopharyngitis,2,16614489
+6,22.0,Hyperglycaemia,2,16614489
+0,22.0,Death,5,16614516
+0,22.1,Hot flush,3,16614551
+1,22.1,Nasopharyngitis,3,16614551
+2,22.1,White blood cell count decreased,3,16614551
+3,22.1,Product use issue,6,16614551
+4,22.1,Off label use,6,16614551
+0,22.0,Swelling,6,16614664
+1,22.0,Vascular pseudoaneurysm,6,16614664
+2,22.0,Mycobacterium tuberculosis complex test positive,6,16614664
+3,22.0,Arterial rupture,6,16614664
+4,22.0,Thrombosis,6,16614664
+5,22.0,Haematoma muscle,6,16614664
+6,22.0,Arteriosclerosis,6,16614664
+7,22.0,Groin pain,6,16614664
+0,22.0,Off label use,3,16614690
+1,22.0,Death,5,16614690
+2,22.0,Product use issue,3,16614690
+0,22.1,Leukopenia,1,16614691
+1,22.1,Thrombocytopenia,1,16614691
+0,22.0,Hyperbilirubinaemia,2,16614724
+1,22.0,Off label use,6,16614724
+0,22.0,Ankle fracture,6,16614746
+0,22.0,Vitreous haemorrhage,3,16614754
+1,22.0,Retinitis,6,16614754
+0,22.0,Malaise,6,16614780
+1,22.0,Nausea,6,16614780
+2,22.0,Arthralgia,6,16614780
+0,22.0,Renal impairment,1,16614801
+1,22.0,Hypertension,1,16614801
+2,22.0,Nephrotic syndrome,2,16614801
+0,22.0,Hypoaesthesia oral,1,16614817
+1,22.0,Throat tightness,1,16614817
+0,22.0,Cholestasis,2,16614818
+1,22.0,Hepatocellular injury,2,16614818
+0,22.0,Arrhythmia supraventricular,3,16614821
+1,22.0,Cardiac failure,1,16614821
+0,22.0,Anxiety,6,16614840
+1,22.0,Madarosis,3,16614840
+2,22.0,Depression,6,16614840
+3,22.0,Alopecia,3,16614840
+0,22.0,Neutropenia,6,16614849
+0,22.0,Off label use,6,16614853
+1,22.0,Product use issue,6,16614853
+0,22.0,Product use in unapproved indication,1,16614902
+1,22.0,Death,5,16614902
+0,22.1,Cognitive disorder,6,16614926
+1,22.1,Fatigue,6,16614926
+2,22.1,Full blood count decreased,3,16614926
+0,22.1,White blood cell count decreased,6,16614958
+0,22.1,Blood count abnormal,3,16614968
+1,22.1,Decreased immune responsiveness,3,16614968
+0,22.0,Superinfection bacterial,5,16615004
+1,22.0,Pneumonia bacterial,5,16615004
+2,22.0,Immune-mediated pneumonitis,5,16615004
+0,22.1,Dehydration,1,16615005
+1,22.1,Diarrhoea,1,16615005
+2,22.1,Colitis,6,16615005
+3,22.1,Hypopituitarism,4,16615005
+4,22.1,Renal disorder,1,16615005
+0,22.0,Product use in unapproved indication,6,16615015
+1,22.0,Interstitial lung disease,3,16615015
+2,22.0,Dyspnoea exertional,2,16615015
+0,22.0,Death,5,16615039
+0,22.0,Pyrexia,6,16615124
+1,22.0,Abdominal abscess,2,16615124
+0,22.0,Wrong technique in product usage process,6,16615217
+1,22.0,Syringe issue,6,16615217
+0,22.0,Hot flush,2,16615248
+1,22.0,Myalgia,3,16615248
+2,22.0,Fatigue,2,16615248
+0,22.0,Hyperhidrosis,1,16615256
+1,22.0,Fatigue,1,16615256
+2,22.0,Chest discomfort,1,16615256
+3,22.0,Insomnia,1,16615256
+4,22.0,Nervousness,1,16615256
+5,22.0,Formication,1,16615256
+6,22.0,Blood pressure increased,1,16615256
+0,22.1,Liver disorder,3,16615282
+0,22.0,Excessive skin,3,16615298
+1,22.0,Penile size reduced,3,16615298
+2,22.0,Asthenia,3,16615298
+3,22.0,Gynaecomastia,3,16615298
+4,22.0,Bone disorder,3,16615298
+5,22.0,Hot flush,1,16615298
+6,22.0,Fatigue,3,16615298
+7,22.0,Muscle atrophy,3,16615298
+0,22.0,Off label use,6,16615313
+1,22.0,Incorrect route of product administration,6,16615313
+2,22.0,Drug dose omission by device,3,16615313
+3,22.0,Device malfunction,6,16615313
+0,22.0,Constipation,6,16615345
+1,22.0,Hypomagnesaemia,6,16615345
+2,22.0,Pelvic mass,6,16615345
+3,22.0,Dry skin,6,16615345
+4,22.0,Neurotoxicity,6,16615345
+5,22.0,Adenocarcinoma of colon,6,16615345
+6,22.0,Pruritus,6,16615345
+7,22.0,Haematotoxicity,6,16615345
+0,22.0,Bone marrow failure,6,16615371
+0,22.0,Death,5,16615402
+0,22.0,Incorrect dose administered,6,16615427
+1,22.0,Device issue,6,16615427
+2,22.0,Incorrect dose administered,6,16615427
+3,22.0,Device issue,6,16615427
+4,22.0,Deafness,3,16615427
+5,22.0,Hypoacusis,3,16615427
+6,22.0,Injection site pain,1,16615427
+0,22.0,Throat tightness,1,16615535
+1,22.0,Hypotension,1,16615535
+2,22.0,Rash,1,16615535
+3,22.0,Nausea,1,16615535
+0,22.0,Blood glucose increased,3,16615589
+1,22.0,Underdose,6,16615589
+2,22.0,Decreased appetite,6,16615589
+0,22.0,Discomfort,3,16615776
+0,22.0,Fatigue,2,16615879
+1,22.0,Device occlusion,1,16615879
+0,22.0,Pericardial effusion,3,16615935
+1,22.0,Localised oedema,3,16615935
+2,22.0,Hot flush,3,16615935
+3,22.0,Fatigue,3,16615935
+4,22.0,Diarrhoea,3,16615935
+0,22.0,Mucosal inflammation,6,16615942
+1,22.0,Haematotoxicity,6,16615942
+2,22.0,Diarrhoea,6,16615942
+3,22.0,Product use in unapproved indication,6,16615942
+4,22.0,Vomiting,6,16615942
+5,22.0,Nausea,6,16615942
+0,22.1,Pneumothorax,2,16615946
+1,22.1,Breast pain,3,16615946
+2,22.1,Musculoskeletal chest pain,3,16615946
+3,22.1,Pleural effusion,3,16615946
+4,22.1,Ureteric obstruction,1,16615946
+5,22.1,Cough,3,16615946
+6,22.1,Pseudomonas infection,3,16615946
+7,22.1,Pneumonia,5,16615946
+0,22.0,Sciatica,3,16615961
+1,22.0,Localised infection,3,16615961
+2,22.0,Diarrhoea,1,16615961
+3,22.0,Neuropathy peripheral,3,16615961
+4,22.0,Hypokalaemia,3,16615961
+5,22.0,Dysuria,1,16615961
+6,22.0,Nail bed tenderness,1,16615961
+7,22.0,Fatigue,1,16615961
+8,22.0,Anaemia,2,16615961
+9,22.0,Skin discolouration,3,16615961
+0,22.1,Hot flush,1,16615975
+1,22.1,Product dose omission,6,16615975
+2,22.1,Haemoglobin decreased,1,16615975
+3,22.1,Vomiting,1,16615975
+4,22.1,Nausea,1,16615975
+5,22.1,White blood cell count decreased,6,16615975
+6,22.1,Cough,6,16615975
+7,22.1,Recurrent cancer,6,16615975
+8,22.1,Anaemia,6,16615975
+9,22.1,Platelet count decreased,1,16615975
+10,22.1,Carbohydrate antigen 125 increased,3,16615975
+11,22.1,Pneumonia,6,16615975
+12,22.1,Decreased appetite,1,16615975
+13,22.1,Haematocrit decreased,1,16615975
+14,22.1,Blood pressure increased,6,16615975
+15,22.1,Fatigue,3,16615975
+16,22.1,Arthralgia,1,16615975
+17,22.1,Nasopharyngitis,6,16615975
+0,22.0,Skin exfoliation,1,16615986
+1,22.0,Erythema,1,16615986
+0,22.1,Hair texture abnormal,3,16615990
+1,22.1,Madarosis,3,16615990
+2,22.1,Hair disorder,3,16615990
+3,22.1,Hair colour changes,3,16615990
+4,22.1,Alopecia,3,16615990
+0,22.0,Acute kidney injury,5,16616013
+1,22.0,Lactic acidosis,5,16616013
+2,22.0,Cardiac arrest,5,16616013
+3,22.0,Hyperkalaemia,1,16616013
+0,22.1,Fall,6,16616036
+1,22.1,Oesophageal obstruction,6,16616036
+2,22.1,Hypoacusis,6,16616036
+3,22.1,Somnolence,3,16616036
+4,22.1,Fatigue,3,16616036
+5,22.1,Product use complaint,6,16616036
+6,22.1,Malignant neoplasm progression,6,16616036
+7,22.1,Product size issue,6,16616036
+8,22.1,Foreign body in respiratory tract,6,16616036
+9,22.1,Discomfort,3,16616036
+10,22.1,Dizziness,6,16616036
+0,22.0,Hyperhidrosis,6,16616117
+1,22.0,Death,5,16616117
+2,22.0,Pyrexia,6,16616117
+3,22.0,Rash,6,16616117
+4,22.0,Blood pressure decreased,6,16616117
+5,22.0,Drug intolerance,6,16616117
+6,22.0,Visual impairment,6,16616117
+0,22.0,Decreased appetite,,16616127
+0,22.0,Haemorrhage,,16616134
+1,22.0,Thrombocytopenia,,16616134
+0,22.0,Tumour obstruction,6,16616194
+0,22.0,Terminal state,6,16616202
+0,22.1,Septic shock,2,16616214
+1,22.1,Acute kidney injury,2,16616214
+2,22.1,Gastrointestinal anastomotic leak,1,16616214
+3,22.1,Candida infection,6,16616214
+0,22.1,Tinnitus,6,16616216
+1,22.1,Deafness,6,16616216
+2,22.1,Interstitial lung disease,6,16616216
+0,22.0,Neutropenia,1,16616259
+1,22.0,Febrile neutropenia,1,16616259
+0,22.0,Toxic epidermal necrolysis,5,16616260
+1,22.0,Pulmonary embolism,5,16616260
+2,22.0,Radiation pneumonitis,5,16616260
+3,22.0,Pneumonia,5,16616260
+0,22.0,Cystoid macular oedema,1,16616287
+0,22.0,Urticaria,6,16616315
+1,22.0,Product colour issue,6,16616315
+2,22.0,Toxic skin eruption,6,16616315
+3,22.0,Eczema,1,16616315
+0,22.1,Oral herpes,1,16616336
+1,22.1,Lymphoedema,1,16616336
+2,22.1,Anaemia,3,16616336
+3,22.1,Humerus fracture,1,16616336
+4,22.1,Musculoskeletal stiffness,3,16616336
+5,22.1,Herpes zoster,1,16616336
+6,22.1,Back pain,1,16616336
+0,22.0,Neutropenia,6,16616345
+1,22.0,Cholangitis,6,16616345
+0,22.1,Diabetic ketoacidosis,1,16616347
+1,22.1,Pneumonia,1,16616347
+2,22.1,Sepsis,1,16616347
+0,22.0,Death,5,16616381
+0,22.0,Therapy cessation,,16616415
+1,22.0,Cerebrovascular accident,,16616415
+0,22.0,Hepatic enzyme increased,,16616435
+0,22.1,Fatigue,6,16616770
+1,22.1,Vomiting,6,16616770
+2,22.1,Haemoptysis,3,16616770
+3,22.1,Dizziness,6,16616770
+4,22.1,Platelet count decreased,1,16616770
+5,22.1,Asthenia,6,16616770
+6,22.1,Disturbance in attention,6,16616770
+7,22.1,Dehydration,6,16616770
+8,22.1,Abdominal discomfort,6,16616770
+9,22.1,Hospitalisation,6,16616770
+10,22.1,Memory impairment,6,16616770
+11,22.1,Abdominal distension,6,16616770
+12,22.1,Nausea,6,16616770
+13,22.1,Stomatitis,6,16616770
+14,22.1,Productive cough,6,16616770
+15,22.1,Foaming at mouth,6,16616770
+16,22.1,Hepatic pain,6,16616770
+0,22.1,Thrombocytopenia,3,16616849
+1,22.1,Toxicity to various agents,6,16616849
+2,22.1,Malaise,3,16616849
+3,22.1,Palpitations,6,16616849
+4,22.1,Fatigue,6,16616849
+5,22.1,Nausea,6,16616849
+6,22.1,Supraventricular tachycardia,6,16616849
+7,22.1,Urinary tract infection,6,16616849
+0,22.0,Headache,6,16616883
+1,22.0,Nausea,6,16616883
+2,22.0,Decreased appetite,6,16616883
+3,22.0,Insomnia,6,16616883
+4,22.0,Eating disorder,6,16616883
+5,22.0,Hypertension,6,16616883
+6,22.0,Anxiety,6,16616883
+0,22.0,Palpitations,1,16616930
+1,22.0,Chills,1,16616930
+2,22.0,Hyperpyrexia,1,16616930
+3,22.0,Gastrointestinal disorder,1,16616930
+4,22.0,Tachypnoea,1,16616930
+5,22.0,Chest discomfort,1,16616930
+0,22.0,Pneumocystis jirovecii pneumonia,2,16616938
+0,22.0,Cholestasis,1,16616941
+0,22.1,Neuropathy peripheral,6,16616975
+1,22.1,Mucosal inflammation,2,16616975
+2,22.1,Toothache,2,16616975
+3,22.1,Dry mouth,6,16616975
+4,22.1,Dry eye,6,16616975
+5,22.1,Nausea,6,16616975
+6,22.1,Alopecia,2,16616975
+7,22.1,White blood cell count decreased,3,16616975
+8,22.1,Stomatitis,2,16616975
+9,22.1,Tongue disorder,6,16616975
+10,22.1,Superficial injury of eye,6,16616975
+0,22.0,Mucosal inflammation,6,16616984
+0,22.0,Weight decreased,3,16617000
+1,22.0,Anxiety,3,16617000
+2,22.0,Asthenia,3,16617000
+3,22.0,Hyperhidrosis,3,16617000
+4,22.0,Arthralgia,3,16617000
+5,22.0,Nausea,3,16617000
+6,22.0,Irritability,3,16617000
+7,22.0,Urinary tract infection,3,16617000
+8,22.0,Gamma-glutamyltransferase increased,3,16617000
+9,22.0,Condition aggravated,3,16617000
+10,22.0,Trigger finger,1,16617000
+11,22.0,Pruritus,3,16617000
+12,22.0,Headache,3,16617000
+13,22.0,Insomnia,3,16617000
+14,22.0,Mucosal dryness,3,16617000
+15,22.0,Hot flush,3,16617000
+0,22.0,Mucosal inflammation,6,16617084
+0,22.0,Prostatitis,1,16617088
+0,22.0,Nausea,1,16617154
+1,22.0,Joint noise,1,16617154
+2,22.0,Impaired healing,3,16617154
+3,22.0,Back pain,3,16617154
+4,22.0,Cellulitis,3,16617154
+5,22.0,Fatigue,3,16617154
+6,22.0,Increased appetite,3,16617154
+7,22.0,Pain in extremity,3,16617154
+0,22.1,Infusion related reaction,1,16617251
+0,22.0,Febrile neutropenia,6,16617319
+0,22.0,Anal ulcer,2,16617325
+1,22.0,Gastrointestinal necrosis,2,16617325
+2,22.0,Neutropenia,2,16617325
+3,22.0,Pseudomonal sepsis,2,16617325
+0,22.0,Renal impairment,6,16617361
+1,22.0,Pancreatitis,6,16617361
+2,22.0,Blood pressure fluctuation,3,16617361
+3,22.0,Insomnia,3,16617361
+4,22.0,Blood pressure increased,3,16617361
+5,22.0,Dehydration,3,16617361
+6,22.0,Vitreous floaters,6,16617361
+7,22.0,Muscular weakness,6,16617361
+8,22.0,Hepatic function abnormal,6,16617361
+9,22.0,Gastroenteritis viral,3,16617361
+10,22.0,Acne,6,16617361
+11,22.0,Constipation,6,16617361
+12,22.0,Diarrhoea,3,16617361
+13,22.0,Photophobia,6,16617361
+0,22.0,Hospitalisation,3,16617429
+1,22.0,Off label use,,16617429
+0,22.0,Urinary retention,6,16617434
+0,22.0,Pancreatitis,1,16617464
+1,22.0,Neoplasm progression,5,16617464
+0,22.0,Pericardial effusion,1,16617476
+1,22.0,Catheter site infection,6,16617476
+2,22.0,Pneumothorax,6,16617476
+3,22.0,Malignant pleural effusion,6,16617476
+0,22.0,Pneumocystis jirovecii pneumonia,6,16617504
+0,22.0,Diarrhoea haemorrhagic,3,16617637
+0,22.0,Pneumonia,1,16617638
+0,22.0,Pancytopenia,6,16617757
+0,22.0,Bone marrow failure,6,16617758
+1,22.0,Hair growth abnormal,6,16617758
+2,22.0,Hair texture abnormal,6,16617758
+3,22.0,Product dose omission,6,16617758
+4,22.0,Nausea,6,16617758
+5,22.0,Weight increased,3,16617758
+6,22.0,Leukopenia,1,16617758
+7,22.0,Alopecia,6,16617758
+8,22.0,Insomnia,6,16617758
+9,22.0,Faeces soft,6,16617758
+10,22.0,Sneezing,6,16617758
+11,22.0,Tumour marker increased,2,16617758
+12,22.0,Fatigue,3,16617758
+13,22.0,Nasal congestion,6,16617758
+0,22.0,Death,5,16617805
+0,22.0,Death,5,16617808
+0,22.0,Death,5,16617811
+0,22.0,Deep vein thrombosis,2,16617874
+1,22.0,Pulmonary embolism,1,16617874
+0,22.0,Death,5,16618061
+0,22.0,Cardiac arrest,5,16618204
+1,22.0,Dyspnoea,5,16618204
+2,22.0,Malignant neoplasm progression,6,16618204
+3,22.0,Cardiac failure,5,16618204
+0,22.0,Death,5,16618215
+0,22.0,Dyspnoea,1,16618290
+0,22.0,Diarrhoea,6,16618557
+1,22.0,Death,5,16618557
+0,22.0,Somnolence,3,16618563
+1,22.0,Diarrhoea,3,16618563
+2,22.0,Death,5,16618563
+3,22.0,Dry skin,2,16618563
+4,22.0,Decreased appetite,3,16618563
+5,22.0,Fatigue,3,16618563
+6,22.0,Weight decreased,3,16618563
+0,22.0,Death,5,16618570
+0,22.1,Contusion,1,16618600
+1,22.1,Constipation,1,16618600
+2,22.1,Fatigue,3,16618600
+3,22.1,Haemorrhage,1,16618600
+4,22.1,Mouth haemorrhage,6,16618600
+5,22.1,Nasal congestion,6,16618600
+6,22.1,Dyspnoea,1,16618600
+7,22.1,Haemoglobin decreased,3,16618600
+8,22.1,Platelet count decreased,3,16618600
+9,22.1,Anaemia,1,16618600
+10,22.1,Dizziness,2,16618600
+11,22.1,Cough,6,16618600
+12,22.1,Asthenia,2,16618600
+13,22.1,Decreased appetite,2,16618600
+0,22.0,Disease progression,6,16618689
+1,22.0,Off label use,6,16618689
+0,22.0,Febrile neutropenia,2,16618705
+0,22.1,Infection,6,16618720
+0,22.0,Neoplasm progression,3,16618725
+1,22.0,Memory impairment,3,16618725
+0,22.0,Neoplasm progression,6,16618740
+0,22.0,Hair texture abnormal,6,16618743
+1,22.0,Alopecia,3,16618743
+2,22.0,Hair colour changes,6,16618743
+3,22.0,Hair disorder,6,16618743
+4,22.0,Madarosis,3,16618743
+0,22.1,White blood cell count decreased,6,16618745
+1,22.1,Pulmonary oedema,6,16618745
+0,22.1,Rash macular,6,16618758
+1,22.1,Pruritus,1,16618758
+2,22.1,Product dose omission,6,16618758
+0,22.0,Abdominal discomfort,1,16618826
+1,22.0,Hot flush,3,16618826
+2,22.0,Nausea,1,16618826
+3,22.0,Breast pain,3,16618826
+4,22.0,Decreased appetite,1,16618826
+5,22.0,Gynaecomastia,3,16618826
+6,22.0,Diabetes mellitus,2,16618826
+7,22.0,Prostate cancer,3,16618826
+8,22.0,Arthralgia,1,16618826
+0,22.0,Incarcerated incisional hernia,1,16618903
+1,22.0,Death,5,16618903
+2,22.0,Ileus,1,16618903
+0,22.1,Hypoaesthesia,1,16618935
+1,22.1,Cytopenia,1,16618935
+0,22.0,Ocular toxicity,1,16618946
+1,22.0,Tunnel vision,1,16618946
+0,22.0,Neoplasm progression,6,16618953
+0,22.1,Hair texture abnormal,3,16618955
+1,22.1,Alopecia,3,16618955
+2,22.1,Hair colour changes,3,16618955
+3,22.1,Hair disorder,3,16618955
+0,22.0,White blood cell count decreased,3,16618958
+0,22.0,Hospitalisation,,16619041
+0,22.0,Breast cancer,6,16619133
+1,22.0,Osteonecrosis of jaw,2,16619133
+2,22.0,Malignant neoplasm progression,6,16619133
+0,22.0,Dyspnoea exertional,1,16619165
+1,22.0,Pleural effusion,1,16619165
+0,22.0,Pleural effusion,1,16619172
+1,22.0,Rash,1,16619172
+2,22.0,Food allergy,6,16619172
+0,22.0,Urticaria,,16619207
+1,22.0,Burning sensation,,16619207
+2,22.0,Rash generalised,,16619207
+3,22.0,Tongue discomfort,,16619207
+0,22.0,Type 2 diabetes mellitus,6,16619292
+1,22.0,Lipids abnormal,6,16619292
+2,22.0,Hypertension,6,16619292
+3,22.0,Product use in unapproved indication,6,16619292
+4,22.0,Retroperitoneal neoplasm,6,16619292
+0,22.0,Nausea,3,16619428
+0,22.0,Neutropenia,6,16619459
+1,22.0,Thrombocytopenia,6,16619459
+2,22.0,Clostridium colitis,6,16619459
+0,22.1,Nausea,6,16619462
+1,22.1,Liver function test abnormal,6,16619462
+2,22.1,Arthralgia,6,16619462
+3,22.1,Bone marrow failure,6,16619462
+4,22.1,Fatigue,6,16619462
+5,22.1,Hot flush,6,16619462
+6,22.1,Dyspnoea,6,16619462
+0,22.0,Neutropenia,2,16619480
+1,22.0,Portal hypertension,6,16619480
+2,22.0,Constipation,2,16619480
+3,22.0,Pulmonary fibrosis,6,16619480
+4,22.0,Intentional product use issue,6,16619480
+5,22.0,Skin fissures,6,16619480
+6,22.0,Diarrhoea,3,16619480
+7,22.0,Myalgia,3,16619480
+8,22.0,Abdominal distension,3,16619480
+9,22.0,Liver disorder,6,16619480
+10,22.0,Pain,2,16619480
+11,22.0,Pulmonary oedema,3,16619480
+12,22.0,Arthralgia,3,16619480
+13,22.0,Flatulence,2,16619480
+14,22.0,Hepatic enzyme increased,6,16619480
+15,22.0,Leukopenia,2,16619480
+16,22.0,Bone marrow failure,1,16619480
+17,22.0,Fatigue,2,16619480
+18,22.0,Pruritus,6,16619480
+19,22.0,Nausea,2,16619480
+20,22.0,Abdominal pain,2,16619480
+21,22.0,Lung disorder,6,16619480
+0,22.0,Myelodysplastic syndrome,3,16619571
+1,22.0,Toxic skin eruption,6,16619571
+0,22.0,Metastases to bone,6,16619654
+1,22.0,Malignant neoplasm progression,3,16619654
+0,22.0,Fatigue,6,16619662
+1,22.0,Thrombosis,6,16619662
+0,22.1,Adrenal insufficiency,3,16619730
+1,22.1,Hypopituitarism,3,16619730
+0,22.0,Product use in unapproved indication,6,16619745
+1,22.0,Kidney infection,3,16619745
+0,22.1,Acute kidney injury,1,16619772
+0,22.0,Off label use,6,16619798
+1,22.0,Product use in unapproved indication,6,16619798
+0,22.0,Malignant neoplasm progression,5,16619846
+0,22.0,Squamous cell carcinoma of skin,6,16619860
+0,22.0,Arthralgia,6,16619894
+1,22.0,Product use in unapproved indication,6,16619894
+0,22.0,Azotaemia,1,16619993
+0,22.0,Urinary bladder haemorrhage,1,16620152
+0,22.0,Cellulitis,2,16620383
+0,22.0,Neutropenia,3,16620551
+0,22.0,Hiccups,2,16620563
+1,22.0,Erythema,2,16620563
+2,22.0,Pruritus,2,16620563
+3,22.0,Retching,2,16620563
+4,22.0,Discomfort,2,16620563
+0,22.1,Ascites,2,16620568
+1,22.1,Weight decreased,6,16620568
+2,22.1,Blood bilirubin increased,6,16620568
+3,22.1,Aspartate aminotransferase increased,6,16620568
+4,22.1,Hepatic atrophy,2,16620568
+5,22.1,Alanine aminotransferase increased,6,16620568
+6,22.1,Portal vein thrombosis,2,16620568
+7,22.1,Platelet count decreased,2,16620568
+0,22.0,Pulmonary fibrosis,5,16620577
+1,22.0,Respiratory failure,5,16620577
+0,22.0,Deep vein thrombosis,1,16620586
+0,22.0,Pyrexia,1,16620607
+1,22.0,C-reactive protein increased,1,16620607
+2,22.0,Injection site abscess,1,16620607
+3,22.0,White blood cell count increased,1,16620607
+0,22.0,Gastrointestinal carcinoma,1,16620691
+0,22.0,Infection,6,16620718
+1,22.0,Product administration error,6,16620718
+0,22.0,Pneumonia,5,16620720
+0,22.0,Dry skin,3,16620759
+1,22.0,Dysuria,1,16620759
+2,22.0,Polyneuropathy,1,16620759
+3,22.0,Headache,1,16620759
+4,22.0,Neutropenia,1,16620759
+5,22.0,Asthenia,1,16620759
+6,22.0,Diarrhoea,3,16620759
+7,22.0,Cough,1,16620759
+8,22.0,Rhinorrhoea,1,16620759
+0,22.0,Metastases to lung,5,16620842
+1,22.0,Asthenia,5,16620842
+0,22.0,Death,5,16620999
+1,22.0,Pleural effusion,6,16620999
+2,22.0,Pneumonia,6,16620999
+0,22.0,Dysuria,6,16621110
+0,22.0,Subarachnoid haemorrhage,5,16621333
+0,22.0,Neutropenia,1,16621590
+0,22.0,Death,5,16621593
+0,22.0,Neutropenia,2,16621675
+0,22.0,Anaemia,1,16621745
+1,22.0,Thrombocytopenia,1,16621745
+2,22.0,Neutropenia,1,16621745
+0,22.0,Renal failure,3,16621755
+0,22.0,Bone marrow failure,1,16621769
+0,22.0,Interstitial lung disease,2,16622024
+0,22.0,Rash,2,16622063
+0,22.0,Intercepted medication error,6,16622130
+0,22.0,Thrombocytopenia,1,16622169
+1,22.0,Skin toxicity,1,16622169
+2,22.0,Neutropenia,1,16622169
+0,22.0,Malaise,6,16622193
+1,22.0,Blood glucose increased,3,16622193
+2,22.0,Tremor,3,16622193
+3,22.0,Product use in unapproved indication,6,16622193
+4,22.0,Nausea,3,16622193
+5,22.0,Dizziness,6,16622193
+0,22.0,Back pain,1,16622207
+1,22.0,Hypersensitivity,1,16622207
+0,22.0,Pancytopenia,1,16622213
+1,22.0,Febrile neutropenia,1,16622213
+0,22.0,Chronic obstructive pulmonary disease,5,16622296
+0,22.0,Fatigue,2,16622359
+0,22.1,Oedema peripheral,3,16622374
+1,22.1,Interstitial lung disease,1,16622374
+2,22.1,Decreased appetite,1,16622374
+3,22.1,Faeces soft,1,16622374
+4,22.1,Pneumocystis jirovecii pneumonia,3,16622374
+5,22.1,Neuropathy peripheral,3,16622374
+6,22.1,Hiccups,1,16622374
+0,22.0,Breast pain,5,16622416
+1,22.0,Pneumonia,5,16622416
+2,22.0,Pseudomonas infection,5,16622416
+3,22.0,Cough,5,16622416
+4,22.0,Breast pain,5,16622416
+5,22.0,Musculoskeletal chest pain,5,16622416
+6,22.0,Ureteric obstruction,5,16622416
+7,22.0,Pleural effusion,5,16622416
+0,22.0,Abscess limb,1,16622423
+0,22.1,Asthma,2,16622514
+1,22.1,Malignant neoplasm progression,5,16622514
+2,22.1,Pneumonia,5,16622514
+3,22.1,Metastases to lung,6,16622514
+0,22.0,Erythema,1,16622602
+1,22.0,Chest pain,1,16622602
+2,22.0,Asphyxia,1,16622602
+0,22.0,Haemoglobin decreased,2,16622603
+0,22.0,Tremor,3,16622657
+1,22.0,Vomiting,6,16622657
+2,22.0,Blood urine present,6,16622657
+3,22.0,Tumour invasion,6,16622657
+4,22.0,Bone marrow failure,6,16622657
+5,22.0,Blood pressure increased,2,16622657
+6,22.0,Fatigue,3,16622657
+7,22.0,Decreased appetite,3,16622657
+8,22.0,Diarrhoea,6,16622657
+9,22.0,Dizziness,3,16622657
+10,22.0,Kidney infection,3,16622657
+11,22.0,Nausea,6,16622657
+0,22.0,Diarrhoea,5,16622733
+1,22.0,Asthenia,5,16622733
+2,22.0,Nausea,5,16622733
+3,22.0,Hypothermia,5,16622733
+4,22.0,Acute kidney injury,5,16622733
+0,22.0,Sclerema,2,16622918
+0,22.0,Lipase increased,3,16622924
+1,22.0,Amylase increased,3,16622924
+2,22.0,Alanine aminotransferase increased,3,16622924
+3,22.0,Aspartate aminotransferase increased,3,16622924
+4,22.0,Blood bilirubin increased,3,16622924
+0,22.0,Rash,1,16622996
+1,22.0,Pyrexia,1,16622996
+0,22.0,Periarthritis,2,16623000
+1,22.0,Drug ineffective,6,16623000
+0,22.0,Muscular weakness,4,16623035
+0,22.0,Malignant neoplasm progression,5,16623096
+0,22.0,Erythema,1,16623117
+1,22.0,Asphyxia,1,16623117
+2,22.0,Muscle spasticity,1,16623117
+0,22.0,Diarrhoea,6,16623265
+0,22.0,Haematuria,6,16623320
+0,22.0,Terminal state,3,16623335
+0,22.0,Pulmonary embolism,2,16623345
+0,22.0,Dyspnoea,3,16623384
+1,22.0,Myocarditis,5,16623384
+2,22.0,Pneumonitis,5,16623384
+0,22.0,Diarrhoea,6,16623388
+1,22.0,Death,5,16623388
+2,22.0,Hospitalisation,3,16623388
+3,22.0,Off label use,3,16623388
+4,22.0,Abdominal discomfort,1,16623388
+0,22.0,Death,5,16623396
+0,22.0,Death,5,16623434
+1,22.0,Myocardial infarction,3,16623434
+0,22.0,Death,5,16623441
+0,22.0,Pyrexia,6,16623462
+1,22.0,Anaemia,1,16623462
+2,22.0,Condition aggravated,1,16623462
+3,22.0,Proteinuria,1,16623462
+4,22.0,Acute kidney injury,1,16623462
+5,22.0,Hot flush,6,16623462
+6,22.0,Tremor,6,16623462
+7,22.0,Renal tubular necrosis,1,16623462
+8,22.0,Oliguria,1,16623462
+9,22.0,Chills,6,16623462
+10,22.0,Thrombocytopenia,1,16623462
+11,22.0,Tubulointerstitial nephritis,1,16623462
+12,22.0,Sterile pyuria,6,16623462
+13,22.0,Renal impairment,1,16623462
+14,22.0,Nephropathy toxic,1,16623462
+15,22.0,Drug hypersensitivity,6,16623462
+0,22.0,Cardiac dysfunction,1,16623466
+0,22.0,Neurotoxicity,1,16623467
+1,22.0,General physical health deterioration,6,16623467
+2,22.0,Disease recurrence,1,16623467
+3,22.0,Posterior reversible encephalopathy syndrome,1,16623467
+4,22.0,Speech disorder,1,16623467
+5,22.0,Oral discomfort,1,16623467
+6,22.0,Dyslipidaemia,6,16623467
+7,22.0,Dysphagia,1,16623467
+8,22.0,Hypertension,6,16623467
+0,22.0,Terminal state,6,16623475
+0,22.0,Dermatitis bullous,6,16623500
+1,22.0,Hepatic function abnormal,6,16623500
+0,22.0,Pleural effusion,2,16623501
+1,22.0,Metastases to lung,3,16623501
+0,22.0,Rectal haemorrhage,3,16623514
+0,22.0,Abdominal discomfort,3,16623574
+1,22.0,Amnesia,3,16623574
+2,22.0,Dizziness,6,16623574
+3,22.0,Myalgia,6,16623574
+4,22.0,Hot flush,3,16623574
+5,22.0,Fatigue,3,16623574
+6,22.0,Nightmare,6,16623574
+7,22.0,Headache,3,16623574
+8,22.0,Abdominal distension,3,16623574
+9,22.0,Loss of consciousness,6,16623574
+10,22.0,Dyspnoea,3,16623574
+11,22.0,Flushing,3,16623574
+12,22.0,Nausea,3,16623574
+13,22.0,Asthenia,3,16623574
+0,22.1,Sinusitis,1,16623583
+1,22.1,Ejection fraction decreased,2,16623583
+2,22.1,Dyspnoea exertional,1,16623583
+3,22.1,Hypertension,1,16623583
+4,22.1,Flank pain,1,16623583
+5,22.1,Ill-defined disorder,1,16623583
+6,22.1,Paraesthesia,1,16623583
+7,22.1,Dyspnoea,1,16623583
+8,22.1,Diarrhoea,1,16623583
+9,22.1,Pain,1,16623583
+10,22.1,Renal pain,1,16623583
+11,22.1,Pyrexia,3,16623583
+0,22.1,Wound,6,16623633
+1,22.1,Drug ineffective,6,16623633
+2,22.1,Mucosal inflammation,3,16623633
+3,22.1,Muscular weakness,3,16623633
+4,22.1,Rib fracture,6,16623633
+5,22.1,Oral pain,3,16623633
+6,22.1,Disease progression,6,16623633
+7,22.1,Fall,3,16623633
+8,22.1,Upper limb fracture,6,16623633
+9,22.1,Platelet count decreased,3,16623633
+10,22.1,Dehydration,6,16623633
+0,22.0,Hypokalaemia,6,16623637
+1,22.0,Confusional state,3,16623637
+2,22.0,Delirium,3,16623637
+0,22.0,Malignant neoplasm progression,6,16623660
+0,22.0,Loss of personal independence in daily activities,6,16623674
+1,22.0,Muscular weakness,6,16623674
+2,22.0,Muscle atrophy,6,16623674
+3,22.0,Fatigue,6,16623674
+0,22.0,Wrong technique in product usage process,6,16623703
+0,22.0,Ovarian cancer recurrent,6,16623754
+1,22.0,Incorrect dose administered,6,16623754
+0,22.0,Acute respiratory failure,5,16623799
+1,22.0,Atrial fibrillation,5,16623799
+2,22.0,Seizure,5,16623799
+3,22.0,Cardiac arrest,5,16623799
+4,22.0,Pneumonia streptococcal,5,16623799
+0,22.0,Pancytopenia,6,16623810
+0,22.0,Hypotension,1,16623868
+0,22.0,Radiotherapy,6,16623930
+1,22.0,Asthenia,6,16623930
+2,22.0,Drug ineffective,6,16623930
+0,22.0,Malignant neoplasm progression,6,16623942
+1,22.0,Haemoglobin decreased,6,16623942
+2,22.0,Duodenal ulcer,1,16623942
+0,22.0,Pulmonary fibrosis,5,16623962
+1,22.0,Respiratory failure,5,16623962
+0,22.0,Cervix carcinoma,6,16624047
+1,22.0,Product dose omission,6,16624047
+0,22.0,Metastases to lung,6,16624058
+1,22.0,Tumour marker increased,6,16624058
+0,22.0,Nephritis,6,16624081
+0,22.0,Colitis,1,16624088
+1,22.0,Pyrexia,6,16624088
+2,22.0,Interstitial lung disease,2,16624088
+3,22.0,General physical condition abnormal,6,16624088
+0,22.0,Focal nodular hyperplasia,6,16624147
+0,22.0,Venoocclusive liver disease,6,16624150
+1,22.0,Hepatic function abnormal,6,16624150
+2,22.0,Splenomegaly,6,16624150
+0,22.0,Focal nodular hyperplasia,6,16624181
+0,22.1,Mucosal dryness,1,16624189
+1,22.1,Dysphagia,2,16624189
+2,22.1,Nausea,1,16624189
+3,22.1,Diarrhoea,1,16624189
+4,22.1,Vertigo,1,16624189
+5,22.1,Dry skin,1,16624189
+6,22.1,Vertigo,3,16624189
+7,22.1,Infusion related reaction,1,16624189
+8,22.1,Nausea,1,16624189
+9,22.1,Pyrexia,1,16624189
+10,22.1,Pain,2,16624189
+0,22.0,Malignant neoplasm progression,5,16624196
+1,22.0,Cerebral haemorrhage,5,16624196
+0,22.0,Drug reaction with eosinophilia and systemic symptoms,2,16624227
+1,22.0,Acute kidney injury,2,16624227
+2,22.0,Haematuria,2,16624227
+3,22.0,Crystalluria,2,16624227
+0,22.0,Epilepsy,6,16624231
+0,22.0,Pseudocirrhosis,5,16624264
+0,22.1,Pneumonia,1,16624268
+0,22.0,Cardiac failure,1,16624273
+1,22.0,Arrhythmia supraventricular,3,16624273
+0,22.1,Infection,6,16624290
+1,22.1,Dermatitis acneiform,6,16624290
+0,22.1,Palmar-plantar erythrodysaesthesia syndrome,6,16624322
+1,22.1,Stevens-Johnson syndrome,6,16624322
+2,22.1,Dermatitis contact,6,16624322
+3,22.1,Erythema,6,16624322
+4,22.1,Drug eruption,6,16624322
+5,22.1,Eczema,6,16624322
+6,22.1,Hyperkeratosis,6,16624322
+0,22.0,Arrhythmia,3,16624343
+1,22.0,Fatigue,6,16624343
+0,22.0,Motion sickness,6,16624363
+1,22.0,Drug interaction,2,16624363
+2,22.0,Pulmonary embolism,6,16624363
+3,22.0,Vomiting,6,16624363
+4,22.0,Drug interaction,6,16624363
+0,22.0,Aortic aneurysm,6,16624399
+0,22.0,Death,5,16624404
+0,22.0,Acute kidney injury,3,16624414
+1,22.0,Lethargy,3,16624414
+2,22.0,Oliguria,3,16624414
+3,22.0,Infection,3,16624414
+4,22.0,Confusional state,3,16624414
+0,22.0,Therapeutic product effect incomplete,6,16624450
+0,22.0,Renal failure,6,16624465
+0,22.0,Prostatic specific antigen increased,,16624483
+1,22.0,Pulmonary mass,,16624483
+2,22.0,Disease progression,,16624483
+0,22.0,Traumatic lung injury,6,16624503
+0,22.1,Fatigue,6,16624514
+1,22.1,Product dose omission,6,16624514
+2,22.1,Musculoskeletal pain,6,16624514
+3,22.1,Therapy cessation,6,16624514
+4,22.1,Chest pain,6,16624514
+5,22.1,Product availability issue,6,16624514
+0,22.0,Death,,16624531
+0,22.0,Nausea,,16624532
+1,22.0,Impaired work ability,,16624532
+2,22.0,Vomiting,,16624532
+3,22.0,Deafness,,16624532
+4,22.0,Memory impairment,,16624532
+5,22.0,Paraesthesia,,16624532
+6,22.0,Depression,,16624532
+7,22.0,Nerve compression,,16624532
+8,22.0,Dizziness,,16624532
+9,22.0,Disability,,16624532
+0,22.0,Diarrhoea,3,16624536
+1,22.0,General physical health deterioration,3,16624536
+2,22.0,Decreased appetite,3,16624536
+3,22.0,Toxicity to various agents,3,16624536
+4,22.0,Weight decreased,3,16624536
+5,22.0,Asthenia,3,16624536
+6,22.0,Vomiting,3,16624536
+0,22.0,Toxic leukoencephalopathy,,16624539
+0,22.1,Neck pain,3,16624544
+1,22.1,Gait disturbance,6,16624544
+2,22.1,Weight decreased,6,16624544
+3,22.1,Back pain,3,16624544
+4,22.1,Stomatitis,3,16624544
+5,22.1,Oral herpes,3,16624544
+6,22.1,Migraine,3,16624544
+7,22.1,Adverse drug reaction,6,16624544
+8,22.1,Insomnia,3,16624544
+9,22.1,Palpitations,1,16624544
+10,22.1,Diplopia,1,16624544
+11,22.1,Fatigue,3,16624544
+12,22.1,Somnolence,6,16624544
+13,22.1,Anxiety,3,16624544
+14,22.1,Decreased appetite,3,16624544
+15,22.1,Nausea,2,16624544
+16,22.1,Euphoric mood,1,16624544
+17,22.1,Hypoaesthesia,3,16624544
+0,22.0,Oedema peripheral,2,16624545
+1,22.0,Acute pulmonary oedema,1,16624545
+2,22.0,Cardiac failure acute,2,16624545
+0,22.0,Delirium,6,16624578
+1,22.0,Dysphagia,6,16624578
+2,22.0,Myoclonus,6,16624578
+3,22.0,Product use issue,6,16624578
+4,22.0,Somnolence,6,16624578
+0,22.0,Dermatitis acneiform,6,16624587
+0,22.0,Flushing,,16624592
+1,22.0,Heart rate increased,,16624592
+0,22.1,Off label use,6,16624656
+1,22.1,Alopecia,6,16624656
+2,22.1,Cataract,1,16624656
+3,22.1,Product use issue,6,16624656
+0,22.0,Death,5,16624707
+1,22.0,Infection,6,16624707
+2,22.0,Alopecia,6,16624707
+0,22.0,Tumour haemorrhage,6,16624747
+0,22.0,Injection site infection,6,16624768
+0,22.0,Adverse event,6,16624787
+1,22.0,Stomatitis,6,16624787
+2,22.0,Abdominal pain upper,6,16624787
+3,22.0,Hypotension,6,16624787
+4,22.0,Fatigue,6,16624787
+5,22.0,Alopecia,6,16624787
+6,22.0,Decreased appetite,6,16624787
+7,22.0,Injection site reaction,6,16624787
+8,22.0,Diarrhoea,6,16624787
+9,22.0,Vertigo,6,16624787
+10,22.0,Pyrexia,6,16624787
+11,22.0,Asthenia,6,16624787
+12,22.0,Hyperaemia,6,16624787
+13,22.0,Nausea,6,16624787
+14,22.0,Vomiting,6,16624787
+15,22.0,Myalgia,6,16624787
+16,22.0,Febrile neutropenia,6,16624787
+17,22.0,Bone pain,6,16624787
+18,22.0,Arthralgia,6,16624787
+19,22.0,Dyspnoea,6,16624787
+0,22.1,Hypertension,4,16624808
+0,22.0,Cognitive disorder,3,16624815
+1,22.0,Memory impairment,3,16624815
+2,22.0,Language disorder,3,16624815
+0,22.0,Foreign body aspiration,6,16624824
+1,22.0,Underdose,6,16624824
+2,22.0,Pneumonia,6,16624824
+0,22.0,Septic shock,1,16624831
+1,22.0,Agranulocytosis,1,16624831
+0,22.0,Malaise,2,16624884
+0,22.0,Bone marrow failure,3,16624886
+0,22.0,Pancytopenia,6,16624897
+0,22.0,Prostate cancer,2,16624943
+1,22.0,Malaise,1,16624943
+0,22.0,Asphyxia,1,16624964
+1,22.0,Erythema,1,16624964
+2,22.0,Chest pain,1,16624964
+0,22.0,Malignant neoplasm progression,6,16624976
+0,22.0,Chills,1,16624981
+1,22.0,Hyperpyrexia,1,16624981
+2,22.0,Shock,1,16624981
+0,22.0,Off label use,6,16625013
+1,22.0,Death,5,16625013
+2,22.0,Product use in unapproved indication,6,16625013
+0,22.1,Proteinuria,3,16625043
+0,22.0,Bone marrow failure,2,16625044
+0,22.0,Renal impairment,,16625045
+0,22.0,Hyponatraemia,3,16625077
+0,22.0,Disease progression,,16625080
+0,22.0,Suicidal ideation,6,16625102
+1,22.0,Alopecia,3,16625102
+2,22.0,Madarosis,3,16625102
+3,22.0,Hair disorder,3,16625102
+4,22.0,Hair colour changes,3,16625102
+5,22.0,Hair texture abnormal,3,16625102
+0,22.0,Alopecia,3,16625104
+1,22.0,Hair disorder,3,16625104
+2,22.0,Madarosis,3,16625104
+3,22.0,Hair colour changes,3,16625104
+4,22.0,Hair texture abnormal,3,16625104
+0,22.1,Hypersomnia,6,16625129
+1,22.1,Cognitive disorder,6,16625129
+2,22.1,Nervousness,6,16625129
+3,22.1,Gait inability,6,16625129
+4,22.1,Asthenia,6,16625129
+0,22.0,Malaise,6,16625175
+1,22.0,Gait disturbance,6,16625175
+0,22.0,Product use in unapproved indication,6,16625180
+1,22.0,Malaise,6,16625180
+0,22.0,Pain in extremity,6,16625181
+1,22.0,Skin exfoliation,6,16625181
+2,22.0,Rash,6,16625181
+3,22.0,Skin burning sensation,6,16625181
+0,22.0,Atrioventricular block,1,16625247
+1,22.0,Palpitations,1,16625247
+2,22.0,Atrial fibrillation,1,16625247
+0,22.0,Hospice care,,16625270
+0,22.0,Hospitalisation,,16625288
+0,22.1,Arthralgia,6,16625338
+1,22.1,Fatigue,6,16625338
+2,22.1,Weight decreased,6,16625338
+3,22.1,Diabetes mellitus,6,16625338
+4,22.1,Hot flush,6,16625338
+5,22.1,Chills,1,16625338
+6,22.1,Oropharyngeal pain,1,16625338
+0,22.0,Kidney infection,6,16625339
+0,22.0,Headache,2,16625340
+0,22.0,Diarrhoea,,16625365
+0,22.0,Wheezing,,16625414
+1,22.0,Dyspnoea,,16625414
+0,22.0,Diarrhoea,6,16625431
+1,22.0,Nausea,6,16625431
+2,22.0,Vision blurred,6,16625431
+3,22.0,Gastrointestinal motility disorder,6,16625431
+4,22.0,Cough,6,16625431
+5,22.0,Visual impairment,6,16625431
+0,22.0,Leukopenia,6,16625439
+0,22.0,Diarrhoea,6,16625448
+1,22.0,Insomnia,6,16625448
+0,22.1,Anxiety,1,16625453
+1,22.1,Dyspnoea exertional,2,16625453
+2,22.1,Alopecia,3,16625453
+0,22.0,White blood cell count decreased,3,16625474
+0,22.0,Pneumonia,6,16625496
+1,22.0,Pleural effusion,6,16625496
+2,22.0,Metastases to adrenals,6,16625496
+0,22.0,Metastases to liver,6,16625563
+1,22.0,Pyrexia,6,16625563
+2,22.0,Blood pressure decreased,6,16625563
+3,22.0,Physical deconditioning,1,16625563
+4,22.0,Dysphonia,1,16625563
+0,22.0,Glomerulonephritis membranous,1,16625569
+1,22.0,Traumatic lung injury,6,16625569
+0,22.0,Sepsis,3,16625606
+1,22.0,Drug ineffective,3,16625606
+2,22.0,Off label use,,16625606
+3,22.0,Pneumonia,3,16625606
+0,22.0,Acute myocardial infarction,3,16625621
+0,22.0,Hair texture abnormal,6,16625627
+1,22.0,Hair colour changes,6,16625627
+2,22.0,Hair disorder,6,16625627
+3,22.0,Madarosis,6,16625627
+4,22.0,Alopecia,6,16625627
+0,22.0,Surgery,,16625667
+0,22.0,Death,,16625676
+0,22.0,Hypotension,1,16625775
+1,22.0,Haematoma,1,16625775
+2,22.0,Syncope,1,16625775
+3,22.0,Hypothyroidism,3,16625775
+4,22.0,Adrenal insufficiency,3,16625775
+0,22.0,Death,5,16625812
+1,22.0,Dehydration,6,16625812
+2,22.0,White blood cell count increased,6,16625812
+3,22.0,Bronchitis,6,16625812
+4,22.0,Herpes zoster,6,16625812
+5,22.0,Feeling abnormal,6,16625812
+6,22.0,Pneumonia,6,16625812
+7,22.0,Nasal discharge discolouration,1,16625812
+8,22.0,Fatigue,6,16625812
+9,22.0,Urinary tract infection,6,16625812
+0,22.0,Hepatotoxicity,6,16625854
+1,22.0,Dyspnoea,6,16625854
+2,22.0,Cough,6,16625854
+3,22.0,Asthenia,6,16625854
+4,22.0,Pneumonia,6,16625854
+5,22.0,Wheezing,6,16625854
+6,22.0,Death,5,16625854
+7,22.0,Sepsis,6,16625854
+0,22.0,Dyskinesia,1,16625855
+1,22.0,Paralysis,1,16625855
+2,22.0,Paraesthesia,1,16625855
+3,22.0,Dizziness,1,16625855
+0,22.0,Death,5,16625864
+0,22.0,Death,5,16625865
+0,22.0,Generalised oedema,2,16625869
+0,22.0,Acute hepatic failure,5,16625873
+0,22.1,Lymphangiosis carcinomatosa,6,16625874
+1,22.1,Lung disorder,3,16625874
+2,22.1,Bacterial infection,6,16625874
+3,22.1,Malignant neoplasm progression,6,16625874
+0,22.1,Asthenia,5,16625876
+1,22.1,Blood pressure decreased,5,16625876
+2,22.1,Nasopharyngitis,3,16625876
+3,22.1,Gamma-glutamyltransferase increased,6,16625876
+4,22.1,Vomiting,3,16625876
+5,22.1,Blood pressure abnormal,6,16625876
+6,22.1,Fatigue,6,16625876
+7,22.1,Peripheral swelling,3,16625876
+8,22.1,Nitrite urine present,3,16625876
+9,22.1,Blood sodium increased,3,16625876
+10,22.1,Polychromasia,3,16625876
+11,22.1,Influenza,6,16625876
+12,22.1,Swelling,6,16625876
+13,22.1,Red blood cell sedimentation rate increased,3,16625876
+14,22.1,Blood thyroid stimulating hormone increased,3,16625876
+15,22.1,Tremor,6,16625876
+16,22.1,Constipation,6,16625876
+17,22.1,Nausea,3,16625876
+18,22.1,Haemothorax,6,16625876
+19,22.1,Red cell distribution width increased,3,16625876
+20,22.1,White blood cell count decreased,3,16625876
+21,22.1,Lymphocyte count decreased,3,16625876
+22,22.1,Haemoglobin urine present,3,16625876
+23,22.1,Poikilocytosis,3,16625876
+24,22.1,Blood calcium decreased,3,16625876
+25,22.1,Haematocrit decreased,3,16625876
+26,22.1,Visual impairment,3,16625876
+27,22.1,Poor quality sleep,6,16625876
+28,22.1,Inappropriate schedule of product administration,6,16625876
+29,22.1,Pneumonitis,5,16625876
+30,22.1,Abdominal pain,3,16625876
+31,22.1,Neutrophil count decreased,3,16625876
+32,22.1,Platelet count decreased,3,16625876
+33,22.1,Rouleaux formation,3,16625876
+34,22.1,Elliptocytosis,3,16625876
+35,22.1,Concomitant disease aggravated,3,16625876
+36,22.1,Left atrial enlargement,6,16625876
+37,22.1,Urinary tract infection,1,16625876
+38,22.1,Abdominal distension,6,16625876
+39,22.1,Mean cell haemoglobin increased,3,16625876
+40,22.1,Stomach mass,6,16625876
+41,22.1,Macrocytosis,3,16625876
+42,22.1,Throat irritation,3,16625876
+43,22.1,Blood albumin decreased,3,16625876
+44,22.1,Red blood cell count decreased,3,16625876
+45,22.1,Cough,3,16625876
+46,22.1,General physical health deterioration,5,16625876
+47,22.1,Mean cell volume increased,3,16625876
+48,22.1,Anisocytosis,3,16625876
+49,22.1,Oropharyngeal discomfort,6,16625876
+50,22.1,Urinary tract infection,1,16625876
+51,22.1,Feeling abnormal,5,16625876
+52,22.1,Gingival disorder,6,16625876
+53,22.1,Excessive granulation tissue,3,16625876
+54,22.1,Blood lactate dehydrogenase increased,3,16625876
+55,22.1,Haemoglobin decreased,6,16625876
+0,22.0,Oedema,5,16625901
+1,22.0,Lung infection,5,16625901
+0,22.0,Papillary thyroid cancer,1,16625909
+1,22.0,Invasive lobular breast carcinoma,1,16625909
+2,22.0,Drug interaction,1,16625909
+3,22.0,Breast cancer metastatic,1,16625909
+4,22.0,Drug level increased,1,16625909
+0,22.0,Pneumonitis,6,16625929
+0,22.0,Death,5,16625933
+0,22.0,Death,5,16625944
+0,22.0,Death,5,16625954
+0,22.0,Hepatic failure,3,16625955
+0,22.0,Metastases to central nervous system,6,16625963
+1,22.0,Brain neoplasm,6,16625963
+0,22.0,Atrial fibrillation,4,16625984
+1,22.0,Cardiac failure,4,16625984
+0,22.0,Thrombocytopenia,1,16626007
+1,22.0,Neutropenia,1,16626007
+2,22.0,Anaemia,1,16626007
+0,22.0,Pulmonary embolism,5,16626016
+1,22.0,Alanine aminotransferase increased,5,16626016
+2,22.0,Intracranial tumour haemorrhage,5,16626016
+0,22.0,Chromaturia,3,16626043
+1,22.0,Surgery,6,16626043
+0,22.1,Drug-induced liver injury,1,16626052
+1,22.1,Pancytopenia,1,16626052
+2,22.1,Hepatic enzyme increased,1,16626052
+0,22.1,Cardiovascular symptom,5,16626130
+1,22.1,Neoplasm progression,5,16626130
+0,22.0,Cognitive disorder,3,16626148
+0,22.0,Loss of consciousness,6,16626267
+1,22.0,Blood pressure increased,6,16626267
+0,22.0,Drug resistance,6,16626282
+1,22.0,Malignant neoplasm progression,6,16626282
+0,22.0,Angina pectoris,1,16626296
+0,22.1,Chronic kidney disease,3,16626336
+1,22.1,Acute kidney injury,3,16626336
+0,22.0,Blood triglycerides increased,6,16626343
+0,22.0,Asthenia,1,16626373
+1,22.0,Shock,1,16626373
+2,22.0,Diarrhoea,1,16626373
+0,22.0,Pruritus generalised,3,16626388
+0,22.1,Radiation skin injury,3,16626442
+0,22.1,Bone marrow failure,1,16626536
+1,22.1,Haemoglobin decreased,1,16626536
+0,22.0,Ludwig angina,1,16626646
+0,22.0,Neutropenia,6,16626676
+0,22.0,Myocardial infarction,1,16626677
+0,22.0,Bone marrow failure,2,16626709
+0,22.0,Asphyxia,1,16626713
+1,22.0,Erythema,1,16626713
+2,22.0,Muscle spasticity,1,16626713
+0,22.0,Ear discomfort,6,16626725
+1,22.0,External ear inflammation,1,16626725
+2,22.0,Paraesthesia,3,16626725
+3,22.0,Ear pruritus,3,16626725
+4,22.0,Sensation of foreign body,1,16626725
+5,22.0,Dysphagia,3,16626725
+6,22.0,Product supply issue,3,16626725
+7,22.0,Sensation of foreign body,3,16626725
+8,22.0,Dysphagia,1,16626725
+0,22.0,Toxic encephalopathy,1,16626749
+0,22.0,Drug resistance,6,16626762
+1,22.0,Malignant neoplasm progression,6,16626762
+0,22.0,Alopecia,2,16626781
+0,22.0,Impaired quality of life,6,16626785
+1,22.0,Pain,6,16626785
+2,22.0,Alopecia,3,16626785
+3,22.0,Anxiety,6,16626785
+4,22.0,Emotional distress,6,16626785
+0,22.0,Psychological trauma,6,16626787
+1,22.0,Alopecia,3,16626787
+2,22.0,Pain,6,16626787
+3,22.0,Impaired quality of life,6,16626787
+4,22.0,Anxiety,6,16626787
+5,22.0,Emotional distress,6,16626787
+0,22.0,Alopecia,2,16626790
+0,22.1,Alopecia,2,16626792
+1,22.1,Psychological trauma,6,16626792
+0,22.1,Psychological trauma,6,16626854
+1,22.1,Alopecia,2,16626854
+0,22.0,Neuropathy peripheral,1,16626863
+1,22.0,Urinary tract infection,1,16626863
+2,22.0,Mucosal inflammation,1,16626863
+3,22.0,Cardiotoxicity,4,16626863
+4,22.0,Febrile neutropenia,1,16626863
+5,22.0,Left ventricular dysfunction,6,16626863
+0,22.1,Alopecia,2,16626906
+1,22.1,Psychological trauma,6,16626906
+0,22.0,Alopecia,2,16626909
+1,22.0,Psychological trauma,6,16626909
+0,22.0,Blood magnesium decreased,6,16627013
+1,22.0,Blood iron decreased,6,16627013
+2,22.0,Blood potassium decreased,6,16627013
+3,22.0,Diarrhoea,6,16627013
+4,22.0,Fatigue,6,16627013
+5,22.0,Blood pressure decreased,6,16627013
+6,22.0,Presyncope,6,16627013
+7,22.0,Asthenia,6,16627013
+0,22.0,Memory impairment,3,16627016
+1,22.0,Cognitive disorder,3,16627016
+2,22.0,Language disorder,3,16627016
+0,22.0,Lung disorder,2,16627018
+0,22.0,Hyperhidrosis,3,16627117
+1,22.0,Nausea,3,16627117
+2,22.0,Vomiting,3,16627117
+3,22.0,Diarrhoea,3,16627117
+4,22.0,Chills,3,16627117
+5,22.0,Memory impairment,3,16627117
+6,22.0,Malaise,6,16627117
+7,22.0,Constipation,3,16627117
+8,22.0,Decreased appetite,3,16627117
+9,22.0,Anuria,3,16627117
+10,22.0,Polyuria,3,16627117
+11,22.0,Somnolence,3,16627117
+12,22.0,Asthenia,3,16627117
+0,22.0,Radiation pneumonitis,3,16627118
+1,22.0,Radiation oesophagitis,6,16627118
+0,22.0,Febrile neutropenia,5,16627128
+1,22.0,Sepsis,5,16627128
+0,22.0,Cardiac tamponade,1,16627146
+1,22.0,Acute kidney injury,6,16627146
+2,22.0,Hyponatraemia,6,16627146
+3,22.0,White blood cell count increased,6,16627146
+4,22.0,Blood osmolarity decreased,6,16627146
+5,22.0,Cardiac failure congestive,6,16627146
+0,22.0,Tremor,1,16627188
+1,22.0,Tachycardia,1,16627188
+2,22.0,Hyperthermia,1,16627188
+0,22.0,Neutropenia,1,16627210
+1,22.0,Pyrexia,1,16627210
+0,22.0,Duodenal ulcer haemorrhage,2,16627211
+0,22.0,Ill-defined disorder,6,16627229
+0,22.0,Abdominal pain,1,16627366
+0,22.0,Malignant neoplasm progression,3,16627418
+1,22.0,Breast cancer metastatic,3,16627418
+2,22.0,Bone marrow toxicity,3,16627418
+0,22.1,Fatigue,6,16627423
+1,22.1,Nausea,6,16627423
+2,22.1,Hypoacusis,3,16627423
+3,22.1,Insomnia,6,16627423
+0,22.0,Aggression,6,16627426
+0,22.1,Anxiety,6,16627434
+1,22.1,Alopecia,3,16627434
+2,22.1,Madarosis,3,16627434
+0,22.0,Dizziness,2,16627435
+0,22.0,Product use in unapproved indication,6,16627439
+1,22.0,Off label use,6,16627439
+0,22.0,Subdural haemorrhage,6,16627446
+1,22.0,Product dose omission,6,16627446
+0,22.0,Deep vein thrombosis,6,16627504
+1,22.0,Bronchial haemorrhage,6,16627504
+0,22.1,Cerebral infarction,3,16627528
+0,22.0,Pneumonia aspiration,5,16627536
+1,22.0,Prescribed underdose,6,16627536
+0,22.1,Epistaxis,1,16627552
+1,22.1,Fatigue,1,16627552
+2,22.1,Oedema peripheral,1,16627552
+3,22.1,Lymphoedema,1,16627552
+4,22.1,Anaemia,1,16627552
+5,22.1,Mucosal dryness,1,16627552
+6,22.1,Nausea,1,16627552
+0,22.0,Cholestasis,2,16627558
+0,22.0,Stomatitis,3,16627635
+1,22.0,Diarrhoea,3,16627635
+0,22.0,Product complaint,6,16627676
+1,22.0,Toxicity to various agents,1,16627676
+2,22.0,Anaemia,1,16627676
+3,22.0,Fatigue,1,16627676
+4,22.0,Syncope,1,16627676
+5,22.0,Hypertension,1,16627676
+6,22.0,Electrolyte imbalance,1,16627676
+7,22.0,Gastritis,1,16627676
+0,22.0,Nasopharyngitis,1,16627717
+1,22.0,Abdominal pain,1,16627717
+2,22.0,Neutrophil count decreased,5,16627717
+3,22.0,Fatigue,1,16627717
+4,22.0,Pyrexia,1,16627717
+5,22.0,Blood alkaline phosphatase increased,1,16627717
+6,22.0,Diarrhoea,1,16627717
+7,22.0,Platelet count decreased,1,16627717
+8,22.0,Transaminases increased,1,16627717
+9,22.0,Fungal infection,1,16627717
+10,22.0,Blood creatinine increased,1,16627717
+11,22.0,Stomatitis,1,16627717
+12,22.0,Neutropenia,1,16627717
+13,22.0,Nausea,2,16627717
+0,22.0,Road traffic accident,6,16627850
+1,22.0,Drug interaction,6,16627850
+0,22.1,Diarrhoea,3,16627885
+0,22.1,Embolism,1,16627909
+0,22.0,Muscle haemorrhage,1,16627922
+1,22.0,Muscle strain,1,16627922
+2,22.0,Limb injury,1,16627922
+3,22.0,Haemarthrosis,1,16627922
+4,22.0,Palmar-plantar erythrodysaesthesia syndrome,1,16627922
+0,22.0,Product dose omission,6,16627934
+0,22.0,Bronchial haemorrhage,6,16627978
+0,22.0,Ileus,2,16627981
+1,22.0,Trousseau^s syndrome,3,16627981
+2,22.0,Cerebral infarction,6,16627981
+3,22.0,Platelet count decreased,3,16627981
+4,22.0,Malignant neoplasm progression,5,16627981
